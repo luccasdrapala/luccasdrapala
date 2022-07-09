@@ -32,7 +32,7 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   
-  <h3 align="left">Linguagens e ferramentas:</h3>
+  <h3 align="left">Objetivos:</h3>
   
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://laravel.com/img/logomark.min.svg" alt="git" width="40" height="40"/> 
