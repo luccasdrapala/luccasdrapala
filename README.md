@@ -51,4 +51,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/256px-Logo_Gmail_%282015-2020%29.svg.png" alt="gmail" width="30" height="20"/></a>
   
 ### Ouvindo no Spotify 👽:loud_sound:
- :shipit:
+[![Spotify](https://novatorem-8bqmolt8r-luccasdrapala.vercel.app/api/spotify)](https://open.spotify.com/user/2262mj4yazamzxue4ek6siakq)
