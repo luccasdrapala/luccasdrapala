@@ -6,7 +6,7 @@
 - :mortar_board: Sou Bacharel em Sistema de Informação - Universidade do Estado de Santa Catarina.
 - :technologist: Sou Desenvolvedor Full-Stack Junior.
 - :mailbox_with_mail: Moro em Mafra, Santa Catarina - Brasil.
-- :computer:Atualmente sou Desenvolvedor de Software Junior.
+- :computer:Atualmente sou Desenvolvedor de Software na @SoftExpert.
 
 ### :hammer_and_pick: Sempre trabalhando e estudando para me aprimorar, conhecimento é poder :triangular_flag_on_post:
 
