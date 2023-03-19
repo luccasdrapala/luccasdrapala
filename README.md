@@ -50,5 +50,5 @@
   <a href="mailto:name@rapidtables.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/256px-Logo_Gmail_%282015-2020%29.svg.png" alt="gmail" width="30" height="20"/></a>
   
-
+### Ouvindo no Spotify 👽:loud_sound:
  :shipit:
