@@ -42,13 +42,10 @@
   <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
   </a>  
 
-<h3 align="left">Contatos:</h3>
+<h3 align="left">Contato:</h3>
 
   <a href="https://www.linkedin.com/in/luccas-henrique-brambilla-drapala-6b4672153/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30"       height="30"/> 
   </a> 
   <a href="mailto:name@rapidtables.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/256px-Logo_Gmail_%282015-2020%29.svg.png" alt="gmail" width="30" height="20"/></a>
-  
-### Ouvindo no Spotify 👽:loud_sound:
-[![Spotify](https://novatorem-8bqmolt8r-luccasdrapala.vercel.app/api/spotify)](https://open.spotify.com/user/2262mj4yazamzxue4ek6siakq)
