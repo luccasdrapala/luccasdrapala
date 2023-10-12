@@ -4,7 +4,7 @@
 
 - :metal: Me chamo Luccas Henrique Bramilla Drapala 	:triangular_flag_on_post:
 - :mortar_board: Sou Bacharel em Sistema de Informação - Universidade do Estado de Santa Catarina.
-- :technologist: Sou Desenvolvedor Full-Stack Junior.
+- :technologist: Sou Desenvolvedor Full-Stack.
 - :mailbox_with_mail: Moro em Mafra, Santa Catarina - Brasil.
 - :computer:Atualmente sou Desenvolvedor de Software na @SoftExpert.
 
